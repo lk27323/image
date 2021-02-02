@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.6a -->
+<!-- CreationDate: 2019-11-19 07:59:01 -->
+<!-- Magnification: 1 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="602pt" height="542pt"
+	viewBox="2688 588 10024 9024">
+<g fill="none">
+<!-- Line -->
+<rect x="2700" y="600" width="7500" height="9000" fill="#f2f2f2"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3300" y="2400" width="6900" height="6525" fill="#e5e5e5"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3900" y="2925" width="6300" height="1725" fill="#d8d8d8"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3900" y="4800" width="6300" height="3450" fill="#d8d8d8"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 10350,3000 10425,3075 10425,4500 10350,4575"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 10350,4875 10425,4950 10425,8100 10350,8175"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="10575" y="6600" fill="#000000" font-family="Helvetica" font-style="italic" font-weight="normal" font-size="216" text-anchor="start">image acquisition</text>
+<!-- Text -->
+<text xml:space="preserve" x="10575" y="3825" fill="#000000" font-family="Helvetica" font-style="italic" font-weight="normal" font-size="216" text-anchor="start">device setup</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="7515" fill="#000000" font-family="Helvetica" font-style="italic" font-weight="normal" font-size="216" text-anchor="start">- go back to</text>
+<!-- Text -->
+<text xml:space="preserve" x="5775" y="7515" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">sane_start()</text>
+<!-- Text -->
+<text xml:space="preserve" x="7275" y="7515" fill="#000000" font-family="Helvetica" font-style="italic" font-weight="normal" font-size="216" text-anchor="start">if more frames desired</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="3300" fill="#000000" font-family="Helvetica" font-style="italic" font-weight="normal" font-size="216" text-anchor="start">- use:</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="5100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">- sane_start()</text>
+<!-- Text -->
+<text xml:space="preserve" x="4500" y="4500" fill="#000000" font-family="Helvetica" font-style="italic" font-weight="normal" font-size="216" text-anchor="start">repeatedly to configure device as desired</text>
+<!-- Text -->
+<text xml:space="preserve" x="5400" y="4080" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">sane_control_option()</text>
+<!-- Text -->
+<text xml:space="preserve" x="5400" y="3600" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">sane_get_option_descriptor()</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="5700" fill="#000000" font-family="Helvetica" font-style="italic" font-weight="normal" font-size="216" text-anchor="start">- use:</text>
+<!-- Text -->
+<text xml:space="preserve" x="4500" y="6900" fill="#000000" font-family="Helvetica" font-style="italic" font-weight="normal" font-size="216" text-anchor="start">repeatedly until read returns EOF</text>
+<!-- Text -->
+<text xml:space="preserve" x="5400" y="6000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">sane_get_parameters()</text>
+<!-- Text -->
+<text xml:space="preserve" x="5400" y="6450" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">sane_read()</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="8100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">- sane_cancel()</text>
+<!-- Text -->
+<text xml:space="preserve" x="3000" y="1200" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">- sane_init()</text>
+<!-- Text -->
+<text xml:space="preserve" x="3000" y="9300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">- sane_exit()</text>
+<!-- Text -->
+<text xml:space="preserve" x="3600" y="1800" fill="#000000" font-family="Helvetica" font-style="italic" font-weight="normal" font-size="216" text-anchor="start">- pick desired device, possibly by using</text>
+<!-- Text -->
+<text xml:space="preserve" x="3600" y="2700" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">- sane_open()</text>
+<!-- Text -->
+<text xml:space="preserve" x="3600" y="8700" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">- sane_close()</text>
+<!-- Text -->
+<text xml:space="preserve" x="4800" y="2175" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">sane_get_devices()</text>
+</g>
+</svg>
